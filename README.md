@@ -6,7 +6,7 @@ This repository contains implementations of classical Machine Learning algorithm
 ##  Classic Machine Learning
 
 The `Machine_Learning.ipynb` notebook contains implementations of several widely used machine learning algorithms developed during the early era of modern ML.
-
+In this model we used Iris Dataset
 ### Supervised Learning
 - K-Nearest Neighbors (KNN)
 - Logistic Regression
